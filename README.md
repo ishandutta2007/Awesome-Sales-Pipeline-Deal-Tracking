@@ -2,36 +2,48 @@
   <img src="assets/banner.svg" alt="Awesome Sales Pipeline and Deal Tracking Ecosystem Banner" width="100%" />
 </p>
 
-# Awesome Sales Pipeline & Deal Tracking [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🚀 Awesome Sales Pipeline & Deal Tracking
 
-> A curated list of top **Sales Pipeline & Deal Tracking** software, visual Kanban CRM platforms, revenue intelligence systems, and self-hosted open-source CRM alternatives.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales-Pipeline-Deal-Tracking/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-Pipeline-Deal-Tracking?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales-Pipeline-Deal-Tracking/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Sales-Pipeline-Deal-Tracking?style=flat-square&color=blue" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales-Pipeline-Deal-Tracking/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Sales-Pipeline-Deal-Tracking?style=flat-square" alt="Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales-Pipeline-Deal-Tracking/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+> 🎯 A curated list of top **Sales Pipeline & Deal Tracking** software, visual Kanban CRM platforms, revenue intelligence systems, and self-hosted open-source CRM alternatives.
 
 Whether managing high-velocity inbound funnels, tracking multi-stakeholder enterprise deals, or orchestrating self-hosted sales workflows, this repository aggregates the premier SaaS platforms and production-ready open-source codebases.
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted Platforms](#saas--hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Key Selection Criteria: SaaS vs. Self-Hosted](#key-selection-criteria-saas-vs-self-hosted)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer & License](#disclaimer--license)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Platforms](#-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🧭 Key Selection Criteria: SaaS vs. Self-Hosted](#-key-selection-criteria-saas-vs-self-hosted)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#star-history)
+- [⚖️ Disclaimer & License](#️-disclaimer--license)
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global CRM and Sales Pipeline Management software market is estimated at **$79.4 Billion in 2026** (projected to reach over $140 Billion by 2030 at a ~12.5% CAGR). The market structure is **moderately fragmented yet top-heavy**: while behemoths like Salesforce, Microsoft, and HubSpot anchor the core enterprise ecosystem (resembling an oligopoly at the global conglomerate tier), the mid-market and SMB domains feature intense specialization and fragmentation driven by agile Kanban-centric CRMs (Pipedrive, Close) and rapidly accelerating modern open-source, AI-native alternatives (Twenty, Frappe, Odoo).
 
 ---
 
-## SaaS & Hosted Platforms
+## 🏢 SaaS & Hosted Platforms
 
 Below is a comparison of premier commercial SaaS platforms for sales pipeline management, opportunity tracking, and revenue forecasting, **ranked descending by company valuation / annual revenue scale**:
 
-| Platform | Market Valuation / Annual Scale | Starting Tier Pricing | Free Tier Limits / Trial Terms | Core Focus & Differentiating Capabilities |
+| 🏢 Platform | 💰 Market Valuation / Annual Scale | 🏷️ Starting Tier Pricing | 🎁 Free Tier Limits / Trial Terms | ⚡ Core Focus & Differentiating Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Salesforce](https://www.salesforce.com/)** | ~$280B Market Cap (~$38B ARR) | **$25 / user / month** (*Starter Suite*, billed annually) | 30-day full-featured free trial; no permanent free plan. | Enterprise benchmark for complex deal tracking, custom stage lifecycles, and extensive AppExchange ecosystem. |
 | **[HubSpot Sales Hub](https://www.hubspot.com/products/sales)** | ~$30B Market Cap (~$2.6B ARR) | **$15 / seat / month** (*Sales Hub Starter*, billed annually) | **100% Free Plan** with up to 5 users, 1 deal pipeline per account, contact management, and deal tracking. | Frictionless inbound sales orchestration, automated meeting scheduling, and unified marketing/support data sync. |
@@ -46,11 +58,11 @@ Below is a comparison of premier commercial SaaS platforms for sales pipeline ma
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 Explore the top open-source CRM and sales pipeline engines, **ranked descending by GitHub star count**. Star badges link directly to the respective stargazers page:
 
-| Repository & Stars | Tech Stack | License | Description & Architectural Highlights |
+| 📦 Repository & ⭐ Stars | 🛠️ Tech Stack | 📜 License | 💡 Description & Architectural Highlights |
 | :--- | :--- | :--- | :--- |
 | **[twentyhq/twenty](https://github.com/twentyhq/twenty)** <br> [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | TypeScript, NestJS, React, GraphQL, PostgreSQL | AGPL-3.0 | Modern open-source CRM alternative to Salesforce & HubSpot. Features Notion-style custom objects/fields, interactive visual Kanban boards, table filters, automated workflow triggers, and rich REST/GraphQL APIs. |
 | **[odoo/odoo](https://github.com/odoo/odoo)** <br> [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Python, JavaScript, PostgreSQL | LGPL-3.0 | World-renowned modular business platform with a comprehensive CRM module featuring drag-and-drop sales funnels, opportunity scoring, quotation generation, and deep enterprise app integration. |
@@ -69,7 +81,7 @@ Explore the top open-source CRM and sales pipeline engines, **ranked descending 
 
 ---
 
-## Key Selection Criteria: SaaS vs. Self-Hosted
+## 🧭 Key Selection Criteria: SaaS vs. Self-Hosted
 
 ```mermaid
 flowchart TD
@@ -86,28 +98,50 @@ flowchart TD
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
-Contributions are welcome! To propose additions, updates, or corrections:
+Contributions are welcome and appreciated! To propose additions, updates, or corrections:
 
-1. **Fork** this repository.
-2. **Create a branch** for your feature or addition (`git checkout -b feature/add-new-crm`).
-3. **Add or update** entries following the existing markdown table format:
+1. 🍴 **Fork** this repository.
+2. 🌿 **Create a branch** for your feature or addition (`git checkout -b feature/add-new-crm`).
+3. 📝 **Add or update** entries following the existing markdown table format:
    - Include specific starting prices and exact free tier limits for SaaS tools.
    - For open-source repos, include GitHub repo links, star badge, tech stack, and license.
-4. **Commit and push** your changes cleanly.
-5. **Open a Pull Request** describing your additions with authoritative references.
+4. 💾 **Commit and push** your changes cleanly.
+5. 🚀 **Open a Pull Request** describing your additions with authoritative references.
 
 ---
 
-## Disclaimer & License
+## 💖 Support
 
-- This repository is a community-maintained guide and does not constitute commercial endorsement.
-- Sales pipeline and deal tracking platforms process sensitive customer financial and contact data. Always verify compliance with **GDPR**, **CCPA**, and **SOC-2** frameworks.
-- When self-hosting open-source CRMs, administrators are responsible for infrastructure security, regular database backups, and patch management.
+If you found this curated list helpful, please consider showing your support:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork it** to customize your own sales stack benchmarks.
+- 📢 **Share it** on Twitter/X, LinkedIn, or with your RevOps team.
+- ☕ **Buy a coffee / Sponsor**: Support ongoing maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=githubsponsors" alt="Sponsor on GitHub" />
+  </a>
+</p>
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Sales-Pipeline-Deal-Tracking&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Sales-Pipeline-Deal-Tracking&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer & License
+
+- 🛡️ This repository is a community-maintained guide and does not constitute commercial endorsement.
+- 🔒 Sales pipeline and deal tracking platforms process sensitive customer financial and contact data. Always verify compliance with **GDPR**, **CCPA**, and **SOC-2** frameworks.
+- ⚙️ When self-hosting open-source CRMs, administrators are responsible for infrastructure security, regular database backups, and patch management.
 
 ---
 
 <p align="center">
-  <sub>Maintained with ❤️ by the open-source and RevOps community. Star this repository if it helps your team close more deals!</sub>
+  <sub>Maintained with ❤️ by <a href="https://github.com/ishandutta2007">Ishan Dutta</a> and the open-source &amp; RevOps community. Star this repository if it helps your team close more deals!</sub>
 </p>
