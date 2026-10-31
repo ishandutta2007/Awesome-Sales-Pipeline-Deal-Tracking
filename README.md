@@ -60,9 +60,9 @@ Below is a comparison of premier commercial SaaS platforms for sales pipeline ma
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the top open-source CRM and sales pipeline engines, **ranked descending by GitHub Stars_Count**. Stars_Badges link directly to the respective stargazers page:
+Explore the top open-source CRM and sales pipeline engines, **ranked descending by GitHub_Stars_Count**. Stars_Badges link directly to the respective stargazers page:
 
-| 📦 Repository & ⭐ Stars | 🛠️ Tech Stack | 📜 License | 💡 Description & Architectural Highlights |
+| 📦 Repository & ⭐ GitHub_Stars | 🛠️ Tech Stack | 📜 License | 💡 Description & Architectural Highlights |
 | :--- | :--- | :--- | :--- |
 | **[twentyhq/twenty](https://github.com/twentyhq/twenty)** <br> [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | TypeScript, NestJS, React, GraphQL, PostgreSQL | AGPL-3.0 | Modern open-source CRM alternative to Salesforce & HubSpot. Features Notion-style custom objects/fields, interactive visual Kanban boards, table filters, automated workflow triggers, and rich REST/GraphQL APIs. |
 | **[odoo/odoo](https://github.com/odoo/odoo)** <br> [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Python, JavaScript, PostgreSQL | LGPL-3.0 | World-renowned modular business platform with a comprehensive CRM module featuring drag-and-drop sales funnels, opportunity scoring, quotation generation, and deep enterprise app integration. |
